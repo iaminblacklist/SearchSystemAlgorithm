@@ -84,9 +84,9 @@
 
 简单来说，搜索可以抽象成查询理解（Query Parsing 或 Query Processing）、召回（Retrieval）、排序（Ranking），这三部分构成了整个搜索系统的核心，甚至可以作为搜索算法的方法论，在各个细分方向中，解析-召回-排序都可以作为一个行之有效的解决问题的思路（即大搜索里套着一个个小搜索），所以本系列将围绕这三个模块展开。
 
-* [QP](/2024/10/28/search-qp)
-* [召回](/2024/10/28/search-recall)
-* [排序](/2024/10/28/search-rank)
+* [QP](QueryParsing)
+* [召回](Retrieval)
+* [排序](Ranking)
 
 #### QP
 
